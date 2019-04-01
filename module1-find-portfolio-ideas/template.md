@@ -3,13 +3,13 @@
 ## You
 
 What do you care about?
-
+Aerospace, AI
 
 What do you know about?
-
+A little about both
 
 What decisions do you face?
-
+Finding information that people would be interested in, not just my personal interestes.
 
 ## Seven templates
 
