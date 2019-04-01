@@ -4,7 +4,7 @@ https://bkrant.github.io/
 
 ## You
 
-What do you care about? 
+What do you care about? Fertility and demographics
 
 
 What do you know about? Auto insurance pricing
@@ -19,7 +19,7 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation. Fertility differences by region
 
 
 2. Trend related to the news
@@ -62,4 +62,3 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
-
