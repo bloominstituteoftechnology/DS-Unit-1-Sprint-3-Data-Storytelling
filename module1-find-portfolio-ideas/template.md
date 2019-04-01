@@ -1,12 +1,18 @@
+# Link to github portfolio
+https://livjab.github.io/
+
 # Ideas for data storytelling
 
 ## You
 
 What do you care about?
-
+- Environmental issues
+- Renewable Energy
+- Ocean Polution
+- Social/Political Issues (Immigration, Prison Reform, Gun Regulation, etc)
 
 What do you know about?
-
+- Environmental Science
 
 What decisions do you face?
 
@@ -61,3 +67,11 @@ Could you do a new topic, with the same "style"?
 
 Where could you search for data about your topic?
 
+https://openpv.nrel.gov/search
+https://www.nrel.gov/gis/data.html
+https://github.com/InsideEnergy/24-energy-stories-CAR16
+http://insideenergy.org/series/data
+
+## colab link of a couple datasets I have downloaded
+
+https://colab.research.google.com/drive/1HOcaAQHCxz9gfax7hy7Zd-4NZ9K2Frr-
