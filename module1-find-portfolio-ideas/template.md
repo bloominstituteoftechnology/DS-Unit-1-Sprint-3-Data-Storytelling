@@ -1,11 +1,13 @@
+# My personal portfolio page
+https://bkrant.github.io/
 # Ideas for data storytelling
 
 ## You
 
-What do you care about?
+What do you care about? 
 
 
-What do you know about?
+What do you know about? Auto insurance pricing
 
 
 What decisions do you face?
