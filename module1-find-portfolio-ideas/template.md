@@ -1,5 +1,8 @@
 # Ideas for data storytelling
 
+### Portfolio link
+https://JLDaniel77.github.io
+
 ## You
 
 What do you care about?
@@ -62,18 +65,18 @@ What misconceptions do people have about your topic?
 
 What data storytelling example inspires you?
 https://fivethirtyeight.com/features/gronk-was-the-most-efficient-receiver-weve-seen/
-
+https://fivethirtyeight.com/features/the-royals-are-mlbs-fastest-team-in-years/
 
 Could you do a new hypothesis, for the same question?
-
+Who was the least efficient receiver over the same time period?
 
 Could you do a new question, for the same topic?
-
+Does team speed have relevence to predicting playoff teams or World Series winner
 
 Could you do a new topic, with the same "style"?
-
+Who was the most efficient running back of all time.
 
 ## Data
 
 Where could you search for data about your topic?
-
+ESPN.com, profootballreference.com, footballoutsiders.com
