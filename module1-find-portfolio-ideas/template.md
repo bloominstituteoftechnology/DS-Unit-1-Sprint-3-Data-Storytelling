@@ -3,6 +3,7 @@
 ## You
 
 What do you care about?
+crypto
 
 
 What do you know about?
