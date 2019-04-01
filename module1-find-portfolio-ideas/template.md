@@ -2,6 +2,8 @@
 ### Jason Murphy
 ## You
 
+gitHub Pages ::: biovir3.github.io
+
 What do you care about?
     IOT, Computer Vision, and Home Automation and Control.
 
@@ -75,5 +77,6 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
-    I already got the data
+    NASA
+    NYC Open Data
     
