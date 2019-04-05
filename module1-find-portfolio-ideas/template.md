@@ -3,7 +3,7 @@
 ## You
 
 What do you care about?
-
+I care about medical research and finance.
 
 What do you know about?
 
