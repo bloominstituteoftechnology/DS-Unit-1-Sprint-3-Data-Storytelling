@@ -1,0 +1,53 @@
+state,id,population,electoral_votes,is_red_2016
+Alabama,1,4863300,9,1
+Alaska,2,741894,3,1
+Arizona,4,6931071,11,1
+Arkansas,5,2988248,6,1
+California,6,39250017,55,0
+Colorado,8,5540545,9,0
+Connecticut,9,3576452,7,0
+Delaware,10,952065,3,0
+District of Columbia,11,681170,3,0
+Florida,12,20612439,29,1
+Georgia,13,10310371,16,1
+Hawaii,15,1428557,4,0
+Idaho,16,1683140,4,1
+Illinois,17,12801539,20,0
+Indiana,18,6633053,11,1
+Iowa,19,3134693,6,1
+Kansas,20,2907289,6,1
+Kentucky,21,4436974,8,1
+Louisiana,22,4681666,8,1
+Maine,23,1331479,4,0
+Maryland,24,6016447,10,0
+Massachusetts,25,6811779,11,0
+Michigan,26,9928300,16,1
+Minnesota,27,5519952,10,0
+Mississippi,28,2988726,6,1
+Missouri,29,6093000,10,1
+Montana,30,1042520,3,1
+Nebraska,31,1907116,5,1
+Nevada,32,2940058,6,0
+New Hampshire,33,1334795,4,0
+New Jersey,34,8944469,14,0
+New Mexico,35,2081015,5,0
+New York,36,19745289,29,0
+North Carolina,37,10146788,15,1
+North Dakota,38,757952,3,1
+Ohio,39,11614373,18,1
+Oklahoma,40,3923561,7,1
+Oregon,41,4093465,7,0
+Pennsylvania,42,12784227,20,1
+Rhode Island,44,1056426,4,0
+South Carolina,45,4961119,9,1
+South Dakota,46,865454,3,1
+Tennessee,47,6651194,11,1
+Texas,48,27862596,38,1
+Utah,49,3051217,6,1
+Vermont,50,624594,3,0
+Virginia,51,8411808,13,0
+Washington,53,7288000,12,0
+West Virginia,54,1831102,5,1
+Wisconsin,55,5778708,10,1
+Wyoming,56,585501,3,1
+Puerto Rico,72,3411307,0,0
