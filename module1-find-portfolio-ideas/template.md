@@ -68,3 +68,8 @@ Fill out the above template *twice*, for two different ideas.
 
 Then compare and contrast and select one as the idea you're leaning towards
 working on for your project week.
+
+Link to my github.io repo. jazzathoth.github.io isn't working properly yet.
+
+https://github.com/jazzathoth/jazzathoth.github.io/blob/master/README.md
+
